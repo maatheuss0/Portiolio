@@ -78,13 +78,17 @@ header {
   height: 400px;
 }
 
+.education {
+  height: 50px;
+}
+
 section {
   height: 100vh;
   padding: 2rem 9%;
 }
 .heading {
-  margin-top: 50px;
-  font-size: 3.5rem;
+  margin-top: 60px;
+  font-size: 40px;
   color: rgb(32, 32, 32);
   font-weight: 800;
   text-align: center;
